@@ -100,7 +100,11 @@ aangezien de website enkel lokaal geopend wordt.
 
 Oplossing:
 ```html
-<!-- TODO -->
+ <a href="https://www.krcgenk.be/nl"> Dit is de site van KRC Genk</a>
+  <br />
+  <a href="https://sporza.be/nl/"> Dit is de site van Sporza</a>
+  <br />
+  <a href="https://www.vrt.be/vrtnws/nl/"> Dit is de site van VRT</a>
 ```
 
 ## Opdracht 5
